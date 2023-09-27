@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\reset.scss"],"names":[],"mappings":"AAMA,WAJE,QAAS,CACT,SAOgB,CAJlB,MAIE,eAAgB","file":"reset.503f5889.css","sourceRoot":"..\\src","sourcesContent":["/* #region reset.scss */\nbody {\n  margin: 0;\n  padding: 0;\n}\n\nul,\nli {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n/* #endregion */\n"]}
